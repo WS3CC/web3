@@ -1,4 +1,4 @@
-<a name="-ws3cc--下一代-web3-金融基础设施服务-cn"></a >
+<a name="top"></a >
 # WS3.CC | 下一代 Web3 金融基础设施服务 (CN)
 
 > **🌐 Language / 语言切换**
@@ -61,5 +61,5 @@ WS3.CC 是一家全球领先的**区块链技术服务商**，致力于为个人
 © 2026 WS3.CC - Powering the Future of Decentralized Finance.
 
 ---
-**[Back to Top / 返回顶部](#-ws3cc--next-gen-web3-financial-service-infrastructure--language-语言切换)**
+**[Back to Top / 返回顶部](#top)**
 ---
